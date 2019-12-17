@@ -12,4 +12,4 @@ eureka:
 
 feign:
   hystrix:
-    enabled: true  #feign自带熔断器，开启服务熔断
+    enabled: true  #feign脳脭麓酶脠脹露脧脝梅拢卢驴陋脝么路镁脦帽脠脹露脧
