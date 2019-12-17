@@ -12,4 +12,4 @@ eureka:
 
 feign:
   hystrix:
-    enabled: true  #feign×Ô´øÈÛ¶ÏÆ÷£¬¿ªÆô·þÎñÈÛ¶Ï
+    enabled: true  #feign自带熔断器
